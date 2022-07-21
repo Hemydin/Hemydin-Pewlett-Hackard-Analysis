@@ -5,6 +5,7 @@ In this challenge, I help Pewlett Hackard future-proof the company. Because many
 #### Deliverable 1: The Number of Retiring Employees by Title
 To retrieve the number of employees by their most recent job title who are about to retire, I prepared the following tables: 
 * The Retirement Titles table holds all the titles of employees born between January 1, 1952, and December 31, 1955.
+
 ![1](https://user-images.githubusercontent.com/100629325/180325707-f3a632f5-ea18-40d4-9129-adbd765e6ee0.png)
 * Because some employees held multiple titles throughout their employment with a company, I created the Unique Titles table containing each employee's most recent title.
 

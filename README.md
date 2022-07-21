@@ -2,7 +2,7 @@
 ### Project Summary
 In this challenge, I help Pewlett Hackard future-proof the company. Because many employees soon come to retirement age, Bobby's manager has requested to determine the number of retiring employees grouped by their titles and identify the eligible employees to participate in a mentorship program. To prepare these lists, I build the queries in SQL using filters, joins, and functions.
 ### Results
-#### The Number of Retiring Employees by Title.
+#### Deliverable 1: The Number of Retiring Employees by Title
 To retrieve the number of employees by their most recent job title who are about to retire, I prepared the following tables: 
 * The Retirement Titles table holds all the titles of employees born between January 1, 1952, and December 31, 1955.
 ![1](https://user-images.githubusercontent.com/100629325/180325707-f3a632f5-ea18-40d4-9129-adbd765e6ee0.png)
@@ -11,4 +11,6 @@ To retrieve the number of employees by their most recent job title who are about
 * Finally, using the COUNT function, I created the Retiring Titles table with the number of retirement-age employees by most recent job title.
 
 ![3](https://user-images.githubusercontent.com/100629325/180326246-b18f22e9-f180-4171-99b0-08911bb86722.png)
-
+#### Deliverable 2: The Employees Eligible for the Mentorship Program
+The Mentorship Eligibility table holds the current employees who are eligible to participate in a mentorship program.
+![4](https://user-images.githubusercontent.com/100629325/180326992-6a82a9f3-11f9-44b0-b3c7-d2fe1bddbd6e.png)

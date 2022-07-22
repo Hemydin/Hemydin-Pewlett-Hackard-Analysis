@@ -10,7 +10,7 @@ To retrieve the number of employees by their most recent job title who are about
 * Because some employees held multiple titles throughout their employment with a company, I created the Unique Titles table containing each employee's most recent title.
 
 ![2](https://user-images.githubusercontent.com/100629325/180326134-370ce4f1-74a8-4994-b511-4cff7a704fbf.png)
-* Finally, using the COUNT function, I created the Retiring Titles table with the number of retirement-age employees by most recent job title.
+* Finally, I created the Retiring Titles table with the number of retirement-age employees by most recent job title.
 
 ![3](https://user-images.githubusercontent.com/100629325/180326246-b18f22e9-f180-4171-99b0-08911bb86722.png)
 #### Deliverable 2: The Employees Eligible for the Mentorship Program

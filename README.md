@@ -15,6 +15,7 @@ To retrieve the number of employees by their most recent job title who are about
 ![3](https://user-images.githubusercontent.com/100629325/180326246-b18f22e9-f180-4171-99b0-08911bb86722.png)
 #### Deliverable 2: The Employees Eligible for the Mentorship Program
 The Mentorship Eligibility table holds the current employees who are eligible to participate in a mentorship program.
+
 ![4](https://user-images.githubusercontent.com/100629325/180326992-6a82a9f3-11f9-44b0-b3c7-d2fe1bddbd6e.png)
 ### Summary:
 * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
